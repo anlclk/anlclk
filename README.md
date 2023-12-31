@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋</h1>
-<h3 align="left">Ben Anıl, kod yazmaya olan tutkumla öne çıkan bir junior Frontend geliştiriciyim. Frontend alanına duyduğum merak, ilgi ve öğrenme isteği ile HTML, CSS, JavaScript ve React gibi teknolojileri ve kütüphaneleri kullanarak becerilerimi geliştirmeye çabalıyorum.</h3>
+<h3 align="left">Ben Anıl, kod yazmaya olan tutkumla öne çıkan bir junior Frontend geliştiriciyim. Frontend alanına duyduğum merak, ilgi ve öğrenme isteği ile HTML, CSS, TailwindCss, JavaScript ve React gibi teknolojileri ve kütüphaneleri kullanarak becerilerimi geliştirmeye çabalıyorum.</h3>
 
 
 
